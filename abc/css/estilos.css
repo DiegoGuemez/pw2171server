@@ -11,9 +11,12 @@ header nav ul li{
 	display: inline-block;
 }
 header nav ul li button{
-	width: 89px;
+	width: 90px;
 }
-#datosUsuario{
-	width: 350px;
+#secUsuarios{
+	display: none;
+}
+#datosUsuario, #secUsuarios{
 	margin: 0 auto;
+	width: 350px;
 }
